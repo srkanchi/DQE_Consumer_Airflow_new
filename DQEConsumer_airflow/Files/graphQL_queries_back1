@@ -1,0 +1,207 @@
+16.09.2021
+-------------------------------------------------------------------------
+COMPLETENESS 
+-------------------------------------------------------------------------
+
+
+TDs status 0: .....................................................................
+
+  query{
+    trialDescriptions(filter: [{
+  tptIdKey:["HA22ARG7AJPX"]
+    }]
+    ){
+           tptIdKey
+           siteType
+           trialResponsibles{
+             siteName
+             internalValue
+             testType
+             hasName
+             plannedNumberOfTrials
+           }
+           plannedNumberOfApplications
+           numberOfReplicates
+           crops{
+             name                  
+           }
+           targets{
+             name
+           }
+           experimentalSeason
+           keywords
+           projectNumbers
+    }  
+    }
+
+
+
+TDs status 1 .......................................................
+
+	query{
+	  trialDescriptions(filter: [{
+		tdKeys:["IA25WLDAGKVX"]
+	  }]
+	  ){
+      tptIdKey
+      dataDeadline
+      gepCode
+      gepCertification
+      guidelines      
+      keywords
+      plannedNumberOfApplications
+		  plannedNumberOfAssessments			      
+			     
+      controlFieldCode
+      plannedAssessments{
+        partRated
+        sampleSize
+        sampleSizeUnit
+        ratingDataType
+        standardEvaluationId
+        assessmentCode
+        target{
+          name
+        }
+        crop{
+          name
+        }
+
+      }
+      
+      treatments{
+        
+        applications{
+          crops{
+            cropStageCode
+          }
+          applicationCode
+          applicationTiming
+          products{
+            equipment{
+              method
+              placement
+            }
+          }
+        }
+      }
+      
+    }  
+	  }
+
+
+
+
+
+Trials .......................................................................
+
+  query{
+    fieldtrials(filter: [{
+      tptIdKey:["HP20USAJU2TJU3"]
+    }]
+    ){
+      tptIdKey
+ 		  status
+      quality
+			objectivesFulfilled
+     
+      
+      location{
+        city
+        country
+        latitude
+        longitude
+      }
+      
+      tillageType
+
+      soil{
+        texture
+      }
+            
+      crops{
+        name
+        variety
+        planting{
+          date
+          rate
+          rateUnit
+        	seedCount
+          seedCountUnit
+          depth
+          depthUnit
+        }
+      }
+      
+      targets{
+        name
+      }
+      
+      
+      treatments{
+        applications{
+					applicationCode
+          date
+          applicationTiming
+          percentRelativeHumidity          
+          airTemperature
+          airTemperatureUnit
+          percentCloudCover
+          windStrength
+          plantCondition
+          soilMoisture
+          soilCondition
+          
+          crops{
+            percentageCropCoverage
+						plantingCondition
+            cropStage
+            percentageAtCropStage
+            maxCropStage
+            percentageAtMaxCropStage
+            minCropStage
+            percentageAtMinCropStage
+          }
+          targets{
+            targetStage
+            percentageAtTargetStage
+						maxTargetStage
+            percentageAtMaxTargetStage
+            minTargetStage
+            percentageAtMinTargetStage
+          }
+          products{
+            equipment{
+              method
+              placement
+              equipmentType
+              propellantType
+              diluentCarrier
+              sprayVolume
+              sprayVolumeUnit
+            }
+          }
+        }
+        assessmentMeanValues{
+          standardEvaluationId
+          label
+          target{
+            name
+          }
+					targetStage
+          
+          cropStage
+          partRated
+          ratingType
+        	unit
+          sampleSize
+          sampleSizeUnit
+          date
+          assessmentCode
+          
+        }
+      }
+
+      
+    }  
+    }

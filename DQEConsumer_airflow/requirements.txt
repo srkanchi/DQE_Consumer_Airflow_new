@@ -1,0 +1,8 @@
+boto3
+hvac
+pandas
+psycopg2
+requests
+s3fs
+simplejson
+pymsteams

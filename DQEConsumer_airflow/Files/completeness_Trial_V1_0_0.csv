@@ -1,0 +1,1281 @@
+﻿Field,Region,Trial,Indication,Required,Exception,Section
+Trial Status,TBD,R,I,1,,general
+Trial Status,TBD,R,F,1,,general
+Trial Status,TBD,R,H,1,,general
+Trial Status,TBD,R,S,1,,general
+Trial Status,TBD,R,II,1,,general
+Trial Status,TBD,A,I,1,,general
+Trial Status,TBD,A,F,1,,general
+Trial Status,TBD,A,H,1,,general
+Trial Status,TBD,A,S,1,,general
+Trial Status,TBD,A,II,1,,general
+Trial Status,TBD,D,I,1,,general
+Trial Status,TBD,D,F,1,,general
+Trial Status,TBD,D,H,1,,general
+Trial Status,TBD,D,S,1,,general
+Trial Status,TBD,D,II,1,,general
+Trial Status,LOCAL,TT,I,1,,general
+Trial Status,LOCAL,TT,F,1,,general
+Trial Status,LOCAL,TT,H,1,,general
+Trial Status,LOCAL,TT,S,1,,general
+Trial Status,LOCAL,TT,II,1,,general
+Trial Quality,TBD,R,I,1,,general
+Trial Quality,TBD,R,F,1,,general
+Trial Quality,TBD,R,H,1,,general
+Trial Quality,TBD,R,S,1,,general
+Trial Quality,TBD,R,II,1,,general
+Trial Quality,TBD,A,I,1,,general
+Trial Quality,TBD,A,F,1,,general
+Trial Quality,TBD,A,H,1,,general
+Trial Quality,TBD,A,S,1,,general
+Trial Quality,TBD,A,II,1,,general
+Trial Quality,TBD,D,I,1,,general
+Trial Quality,TBD,D,F,1,,general
+Trial Quality,TBD,D,H,1,,general
+Trial Quality,TBD,D,S,1,,general
+Trial Quality,TBD,D,II,1,,general
+Trial Quality,LOCAL,TT,I,1,,general
+Trial Quality,LOCAL,TT,F,1,,general
+Trial Quality,LOCAL,TT,H,1,,general
+Trial Quality,LOCAL,TT,S,1,,general
+Trial Quality,LOCAL,TT,II,1,,general
+Trial Objectives Fulfilled,TBD,R,I,1,,general
+Trial Objectives Fulfilled,TBD,R,F,1,,general
+Trial Objectives Fulfilled,TBD,R,H,1,,general
+Trial Objectives Fulfilled,TBD,R,S,1,,general
+Trial Objectives Fulfilled,TBD,R,II,1,,general
+Trial Objectives Fulfilled,TBD,A,I,1,,general
+Trial Objectives Fulfilled,TBD,A,F,1,,general
+Trial Objectives Fulfilled,TBD,A,H,1,,general
+Trial Objectives Fulfilled,TBD,A,S,1,,general
+Trial Objectives Fulfilled,TBD,A,II,1,,general
+Trial Objectives Fulfilled,TBD,D,I,1,,general
+Trial Objectives Fulfilled,TBD,D,F,1,,general
+Trial Objectives Fulfilled,TBD,D,H,1,,general
+Trial Objectives Fulfilled,TBD,D,S,1,,general
+Trial Objectives Fulfilled,TBD,D,II,1,,general
+Trial Objectives Fulfilled,LOCAL,TT,I,1,,general
+Trial Objectives Fulfilled,LOCAL,TT,F,1,,general
+Trial Objectives Fulfilled,LOCAL,TT,H,1,,general
+Trial Objectives Fulfilled,LOCAL,TT,S,1,,general
+Trial Objectives Fulfilled,LOCAL,TT,II,1,,general
+City,TBD,R,I,1,,general
+City,TBD,R,F,1,,general
+City,TBD,R,H,1,,general
+City,TBD,R,S,1,,general
+City,TBD,R,II,1,,general
+City,TBD,A,I,1,,general
+City,TBD,A,F,1,,general
+City,TBD,A,H,1,,general
+City,TBD,A,S,1,,general
+City,TBD,A,II,1,,general
+City,TBD,D,I,1,,general
+City,TBD,D,F,1,,general
+City,TBD,D,H,1,,general
+City,TBD,D,S,1,,general
+City,TBD,D,II,1,,general
+City,LOCAL,TT,I,1,,general
+City,LOCAL,TT,F,1,,general
+City,LOCAL,TT,H,1,,general
+City,LOCAL,TT,S,1,,general
+City,LOCAL,TT,II,1,,general
+Country,TBD,R,I,1,,general
+Country,TBD,R,F,1,,general
+Country,TBD,R,H,1,,general
+Country,TBD,R,S,1,,general
+Country,TBD,R,II,1,,general
+Country,TBD,A,I,1,,general
+Country,TBD,A,F,1,,general
+Country,TBD,A,H,1,,general
+Country,TBD,A,S,1,,general
+Country,TBD,A,II,1,,general
+Country,TBD,D,I,1,,general
+Country,TBD,D,F,1,,general
+Country,TBD,D,H,1,,general
+Country,TBD,D,S,1,,general
+Country,TBD,D,II,1,,general
+Country,LOCAL,TT,I,1,,general
+Country,LOCAL,TT,F,1,,general
+Country,LOCAL,TT,H,1,,general
+Country,LOCAL,TT,S,1,,general
+Country,LOCAL,TT,II,1,,general
+Latitude,TBD,R,I,1,,general
+Latitude,TBD,R,F,1,,general
+Latitude,TBD,R,H,1,,general
+Latitude,TBD,R,S,1,,general
+Latitude,TBD,R,II,1,,general
+Latitude,TBD,A,I,1,,general
+Latitude,TBD,A,F,1,,general
+Latitude,TBD,A,H,1,,general
+Latitude,TBD,A,S,1,,general
+Latitude,TBD,A,II,1,,general
+Latitude,TBD,D,I,1,,general
+Latitude,TBD,D,F,1,,general
+Latitude,TBD,D,H,1,,general
+Latitude,TBD,D,S,1,,general
+Latitude,TBD,D,II,1,,general
+Latitude,LOCAL,TT,I,1,,general
+Latitude,LOCAL,TT,F,1,,general
+Latitude,LOCAL,TT,H,1,,general
+Latitude,LOCAL,TT,S,1,,general
+Latitude,LOCAL,TT,II,1,,general
+Longitude,TBD,R,I,1,,general
+Longitude,TBD,R,F,1,,general
+Longitude,TBD,R,H,1,,general
+Longitude,TBD,R,S,1,,general
+Longitude,TBD,R,II,1,,general
+Longitude,TBD,A,I,1,,general
+Longitude,TBD,A,F,1,,general
+Longitude,TBD,A,H,1,,general
+Longitude,TBD,A,S,1,,general
+Longitude,TBD,A,II,1,,general
+Longitude,TBD,D,I,1,,general
+Longitude,TBD,D,F,1,,general
+Longitude,TBD,D,H,1,,general
+Longitude,TBD,D,S,1,,general
+Longitude,TBD,D,II,1,,general
+Longitude,LOCAL,TT,I,1,,general
+Longitude,LOCAL,TT,F,1,,general
+Longitude,LOCAL,TT,H,1,,general
+Longitude,LOCAL,TT,S,1,,general
+Longitude,LOCAL,TT,II,1,,general
+Tillage Type,TBD,R,I,1,,general
+Tillage Type,TBD,R,F,1,,general
+Tillage Type,TBD,R,H,1,,general
+Tillage Type,TBD,R,S,1,,general
+Tillage Type,TBD,R,II,1,,general
+Tillage Type,TBD,A,I,0,,general
+Tillage Type,TBD,A,F,0,,general
+Tillage Type,TBD,A,H,1,,general
+Tillage Type,TBD,A,S,1,,general
+Tillage Type,TBD,A,II,1,,general
+Tillage Type,TBD,D,I,1,,general
+Tillage Type,TBD,D,F,1,,general
+Tillage Type,TBD,D,H,1,,general
+Tillage Type,TBD,D,S,1,,general
+Tillage Type,TBD,D,II,1,,general
+Tillage Type,LOCAL,TT,I,1,,general
+Tillage Type,LOCAL,TT,F,1,,general
+Tillage Type,LOCAL,TT,H,1,,general
+Tillage Type,LOCAL,TT,S,1,,general
+Tillage Type,LOCAL,TT,II,1,,general
+Texture,TBD,R,I,1,APPMETHOD,general
+Texture,TBD,R,F,1,APPMETHOD,general
+Texture,TBD,R,H,1,APPMETHOD,general
+Texture,TBD,R,S,1,APPMETHOD,general
+Texture,TBD,R,II,1,APPMETHOD,general
+Texture,TBD,A,I,0,APPMETHOD,general
+Texture,TBD,A,F,0,APPMETHOD,general
+Texture,TBD,A,H,0,APPMETHOD,general
+Texture,TBD,A,S,1,APPMETHOD,general
+Texture,TBD,A,II,0,APPMETHOD,general
+Texture,TBD,D,I,0,APPMETHOD,general
+Texture,TBD,D,F,0,APPMETHOD,general
+Texture,TBD,D,H,0,APPMETHOD,general
+Texture,TBD,D,S,1,APPMETHOD,general
+Texture,TBD,D,II,0,APPMETHOD,general
+Texture,LOCAL,TT,I,1,APPMETHOD,general
+Texture,LOCAL,TT,F,1,APPMETHOD,general
+Texture,LOCAL,TT,H,1,APPMETHOD,general
+Texture,LOCAL,TT,S,1,APPMETHOD,general
+Texture,LOCAL,TT,II,1,APPMETHOD,general
+Crop,TBD,R,I,1,,crops
+Crop,TBD,R,F,1,,crops
+Crop,TBD,R,H,1,,crops
+Crop,TBD,R,S,1,,crops
+Crop,TBD,R,II,1,,crops
+Crop,TBD,A,I,1,,crops
+Crop,TBD,A,F,1,,crops
+Crop,TBD,A,H,1,,crops
+Crop,TBD,A,S,1,,crops
+Crop,TBD,A,II,1,,crops
+Crop,TBD,D,I,1,,crops
+Crop,TBD,D,F,1,,crops
+Crop,TBD,D,H,1,,crops
+Crop,TBD,D,S,1,,crops
+Crop,TBD,D,II,1,,crops
+Crop,LOCAL,TT,I,1,,crops
+Crop,LOCAL,TT,F,1,,crops
+Crop,LOCAL,TT,H,1,,crops
+Crop,LOCAL,TT,S,1,,crops
+Crop,LOCAL,TT,II,1,,crops
+Variety,TBD,R,I,1,,crops
+Variety,TBD,R,F,1,,crops
+Variety,TBD,R,H,1,,crops
+Variety,TBD,R,S,1,,crops
+Variety,TBD,R,II,1,,crops
+Variety,TBD,A,I,1,,crops
+Variety,TBD,A,F,1,,crops
+Variety,TBD,A,H,1,,crops
+Variety,TBD,A,S,1,,crops
+Variety,TBD,A,II,1,,crops
+Variety,TBD,D,I,1,,crops
+Variety,TBD,D,F,1,,crops
+Variety,TBD,D,H,1,,crops
+Variety,TBD,D,S,1,,crops
+Variety,TBD,D,II,1,,crops
+Variety,LOCAL,TT,I,1,,crops
+Variety,LOCAL,TT,F,1,,crops
+Variety,LOCAL,TT,H,1,,crops
+Variety,LOCAL,TT,S,1,,crops
+Variety,LOCAL,TT,II,1,,crops
+Seed/Planting Date,TBD,R,I,0,,crops
+Seed/Planting Date,TBD,R,F,0,,crops
+Seed/Planting Date,TBD,R,H,0,,crops
+Seed/Planting Date,TBD,R,S,1,,crops
+Seed/Planting Date,TBD,R,II,0,,crops
+Seed/Planting Date,TBD,A,I,0,,crops
+Seed/Planting Date,TBD,A,F,0,,crops
+Seed/Planting Date,TBD,A,H,0,,crops
+Seed/Planting Date,TBD,A,S,1,,crops
+Seed/Planting Date,TBD,A,II,0,,crops
+Seed/Planting Date,TBD,D,I,0,,crops
+Seed/Planting Date,TBD,D,F,0,,crops
+Seed/Planting Date,TBD,D,H,0,,crops
+Seed/Planting Date,TBD,D,S,1,,crops
+Seed/Planting Date,TBD,D,II,0,,crops
+Seed/Planting Date,LOCAL,TT,I,0,,crops
+Seed/Planting Date,LOCAL,TT,F,0,,crops
+Seed/Planting Date,LOCAL,TT,H,0,,crops
+Seed/Planting Date,LOCAL,TT,S,1,,crops
+Seed/Planting Date,LOCAL,TT,II,0,,crops
+Seed/Plant Rate,TBD,R,I,0,SEEDEXC,crops
+Seed/Plant Rate,TBD,R,F,0,SEEDEXC,crops
+Seed/Plant Rate,TBD,R,H,0,SEEDEXC,crops
+Seed/Plant Rate,TBD,R,S,1,SEEDEXC,crops
+Seed/Plant Rate,TBD,R,II,0,SEEDEXC,crops
+Seed/Plant Rate,TBD,A,I,0,SEEDEXC,crops
+Seed/Plant Rate,TBD,A,F,0,SEEDEXC,crops
+Seed/Plant Rate,TBD,A,H,0,SEEDEXC,crops
+Seed/Plant Rate,TBD,A,S,1,SEEDEXC,crops
+Seed/Plant Rate,TBD,A,II,0,SEEDEXC,crops
+Seed/Plant Rate,TBD,D,I,0,SEEDEXC,crops
+Seed/Plant Rate,TBD,D,F,0,SEEDEXC,crops
+Seed/Plant Rate,TBD,D,H,0,SEEDEXC,crops
+Seed/Plant Rate,TBD,D,S,1,SEEDEXC,crops
+Seed/Plant Rate,TBD,D,II,0,SEEDEXC,crops
+Seed/Plant Rate,LOCAL,TT,I,0,SEEDEXC,crops
+Seed/Plant Rate,LOCAL,TT,F,0,SEEDEXC,crops
+Seed/Plant Rate,LOCAL,TT,H,0,SEEDEXC,crops
+Seed/Plant Rate,LOCAL,TT,S,1,SEEDEXC,crops
+Seed/Plant Rate,LOCAL,TT,II,0,SEEDEXC,crops
+Seed/Plant Rate Unit,TBD,R,I,0,,crops
+Seed/Plant Rate Unit,TBD,R,F,0,,crops
+Seed/Plant Rate Unit,TBD,R,H,0,,crops
+Seed/Plant Rate Unit,TBD,R,S,1,,crops
+Seed/Plant Rate Unit,TBD,R,II,0,,crops
+Seed/Plant Rate Unit,TBD,A,I,0,,crops
+Seed/Plant Rate Unit,TBD,A,F,0,,crops
+Seed/Plant Rate Unit,TBD,A,H,0,,crops
+Seed/Plant Rate Unit,TBD,A,S,1,,crops
+Seed/Plant Rate Unit,TBD,A,II,0,,crops
+Seed/Plant Rate Unit,TBD,D,I,0,,crops
+Seed/Plant Rate Unit,TBD,D,F,0,,crops
+Seed/Plant Rate Unit,TBD,D,H,0,,crops
+Seed/Plant Rate Unit,TBD,D,S,1,,crops
+Seed/Plant Rate Unit,TBD,D,II,0,,crops
+Seed/Plant Rate Unit,LOCAL,TT,I,0,,crops
+Seed/Plant Rate Unit,LOCAL,TT,F,0,,crops
+Seed/Plant Rate Unit,LOCAL,TT,H,0,,crops
+Seed/Plant Rate Unit,LOCAL,TT,S,1,,crops
+Seed/Plant Rate Unit,LOCAL,TT,II,0,,crops
+Seed Plant Count,TBD,R,I,0,,crops
+Seed Plant Count,TBD,R,F,0,,crops
+Seed Plant Count,TBD,R,H,0,,crops
+Seed Plant Count,TBD,R,S,1,,crops
+Seed Plant Count,TBD,R,II,0,,crops
+Seed Plant Count,TBD,A,I,0,,crops
+Seed Plant Count,TBD,A,F,0,,crops
+Seed Plant Count,TBD,A,H,0,,crops
+Seed Plant Count,TBD,A,S,1,,crops
+Seed Plant Count,TBD,A,II,0,,crops
+Seed Plant Count,TBD,D,I,0,,crops
+Seed Plant Count,TBD,D,F,0,,crops
+Seed Plant Count,TBD,D,H,0,,crops
+Seed Plant Count,TBD,D,S,1,,crops
+Seed Plant Count,TBD,D,II,0,,crops
+Seed Plant Count,LOCAL,TT,I,0,,crops
+Seed Plant Count,LOCAL,TT,F,0,,crops
+Seed Plant Count,LOCAL,TT,H,0,,crops
+Seed Plant Count,LOCAL,TT,S,1,,crops
+Seed Plant Count,LOCAL,TT,II,0,,crops
+Seed Plant Count Unit,TBD,R,I,0,,crops
+Seed Plant Count Unit,TBD,R,F,0,,crops
+Seed Plant Count Unit,TBD,R,H,0,,crops
+Seed Plant Count Unit,TBD,R,S,1,,crops
+Seed Plant Count Unit,TBD,R,II,0,,crops
+Seed Plant Count Unit,TBD,A,I,0,,crops
+Seed Plant Count Unit,TBD,A,F,0,,crops
+Seed Plant Count Unit,TBD,A,H,0,,crops
+Seed Plant Count Unit,TBD,A,S,1,,crops
+Seed Plant Count Unit,TBD,A,II,0,,crops
+Seed Plant Count Unit,TBD,D,I,0,,crops
+Seed Plant Count Unit,TBD,D,F,0,,crops
+Seed Plant Count Unit,TBD,D,H,0,,crops
+Seed Plant Count Unit,TBD,D,S,1,,crops
+Seed Plant Count Unit,TBD,D,II,0,,crops
+Seed Plant Count Unit,LOCAL,TT,I,0,,crops
+Seed Plant Count Unit,LOCAL,TT,F,0,,crops
+Seed Plant Count Unit,LOCAL,TT,H,0,,crops
+Seed Plant Count Unit,LOCAL,TT,S,1,,crops
+Seed Plant Count Unit,LOCAL,TT,II,0,,crops
+Depth,TBD,R,I,0,,crops
+Depth,TBD,R,F,0,,crops
+Depth,TBD,R,H,0,,crops
+Depth,TBD,R,S,1,,crops
+Depth,TBD,R,II,0,,crops
+Depth,TBD,A,I,0,,crops
+Depth,TBD,A,F,0,,crops
+Depth,TBD,A,H,0,,crops
+Depth,TBD,A,S,1,,crops
+Depth,TBD,A,II,0,,crops
+Depth,TBD,D,I,0,,crops
+Depth,TBD,D,F,0,,crops
+Depth,TBD,D,H,0,,crops
+Depth,TBD,D,S,1,,crops
+Depth,TBD,D,II,0,,crops
+Depth,LOCAL,TT,I,0,,crops
+Depth,LOCAL,TT,F,0,,crops
+Depth,LOCAL,TT,H,0,,crops
+Depth,LOCAL,TT,S,1,,crops
+Depth,LOCAL,TT,II,0,,crops
+Depth Unit,TBD,R,I,0,,crops
+Depth Unit,TBD,R,F,0,,crops
+Depth Unit,TBD,R,H,0,,crops
+Depth Unit,TBD,R,S,1,,crops
+Depth Unit,TBD,R,II,0,,crops
+Depth Unit,TBD,A,I,0,,crops
+Depth Unit,TBD,A,F,0,,crops
+Depth Unit,TBD,A,H,0,,crops
+Depth Unit,TBD,A,S,1,,crops
+Depth Unit,TBD,A,II,0,,crops
+Depth Unit,TBD,D,I,0,,crops
+Depth Unit,TBD,D,F,0,,crops
+Depth Unit,TBD,D,H,0,,crops
+Depth Unit,TBD,D,S,1,,crops
+Depth Unit,TBD,D,II,0,,crops
+Depth Unit,LOCAL,TT,I,0,,crops
+Depth Unit,LOCAL,TT,F,0,,crops
+Depth Unit,LOCAL,TT,H,0,,crops
+Depth Unit,LOCAL,TT,S,1,,crops
+Depth Unit,LOCAL,TT,II,0,,crops
+Target,TBD,R,I,1,,target
+Target,TBD,R,F,1,,target
+Target,TBD,R,H,1,,target
+Target,TBD,R,S,1,,target
+Target,TBD,R,II,1,,target
+Target,TBD,A,I,1,,target
+Target,TBD,A,F,1,,target
+Target,TBD,A,H,1,,target
+Target,TBD,A,S,1,,target
+Target,TBD,A,II,1,,target
+Target,TBD,D,I,1,,target
+Target,TBD,D,F,1,,target
+Target,TBD,D,H,1,,target
+Target,TBD,D,S,1,,target
+Target,TBD,D,II,1,,target
+Target,LOCAL,TT,I,1,,target
+Target,LOCAL,TT,F,1,,target
+Target,LOCAL,TT,H,1,,target
+Target,LOCAL,TT,S,1,,target
+Target,LOCAL,TT,II,1,,target
+Application Code,TBD,R,I,1,,applications
+Application Code,TBD,R,F,1,,applications
+Application Code,TBD,R,H,1,,applications
+Application Code,TBD,R,S,1,,applications
+Application Code,TBD,R,II,1,,applications
+Application Code,TBD,A,I,1,,applications
+Application Code,TBD,A,F,1,,applications
+Application Code,TBD,A,H,1,,applications
+Application Code,TBD,A,S,1,,applications
+Application Code,TBD,A,II,1,,applications
+Application Code,TBD,D,I,1,,applications
+Application Code,TBD,D,F,1,,applications
+Application Code,TBD,D,H,1,,applications
+Application Code,TBD,D,S,1,,applications
+Application Code,TBD,D,II,1,,applications
+Application Code,LOCAL,TT,I,1,,applications
+Application Code,LOCAL,TT,F,1,,applications
+Application Code,LOCAL,TT,H,1,,applications
+Application Code,LOCAL,TT,S,1,,applications
+Application Code,LOCAL,TT,II,1,,applications
+Application Date,TBD,R,I,1,,applications
+Application Date,TBD,R,F,1,,applications
+Application Date,TBD,R,H,1,,applications
+Application Date,TBD,R,S,1,,applications
+Application Date,TBD,R,II,1,,applications
+Application Date,TBD,A,I,1,,applications
+Application Date,TBD,A,F,1,,applications
+Application Date,TBD,A,H,1,,applications
+Application Date,TBD,A,S,1,,applications
+Application Date,TBD,A,II,1,,applications
+Application Date,TBD,D,I,1,,applications
+Application Date,TBD,D,F,1,,applications
+Application Date,TBD,D,H,1,,applications
+Application Date,TBD,D,S,1,,applications
+Application Date,TBD,D,II,1,,applications
+Application Date,LOCAL,TT,I,1,,applications
+Application Date,LOCAL,TT,F,1,,applications
+Application Date,LOCAL,TT,H,1,,applications
+Application Date,LOCAL,TT,S,1,,applications
+Application Date,LOCAL,TT,II,1,,applications
+Appl. Start - Time of day,TBD,R,I,1,,applications
+Appl. Start - Time of day,TBD,R,F,1,,applications
+Appl. Start - Time of day,TBD,R,H,1,,applications
+Appl. Start - Time of day,TBD,R,S,1,,applications
+Appl. Start - Time of day,TBD,R,II,1,,applications
+Appl. Start - Time of day,TBD,A,I,1,,applications
+Appl. Start - Time of day,TBD,A,F,1,,applications
+Appl. Start - Time of day,TBD,A,H,1,,applications
+Appl. Start - Time of day,TBD,A,S,1,,applications
+Appl. Start - Time of day,TBD,A,II,1,,applications
+Appl. Start - Time of day,TBD,D,I,1,,applications
+Appl. Start - Time of day,TBD,D,F,1,,applications
+Appl. Start - Time of day,TBD,D,H,1,,applications
+Appl. Start - Time of day,TBD,D,S,1,,applications
+Appl. Start - Time of day,TBD,D,II,1,,applications
+Appl. Start - Time of day,LOCAL,TT,I,1,,applications
+Appl. Start - Time of day,LOCAL,TT,F,1,,applications
+Appl. Start - Time of day,LOCAL,TT,H,1,,applications
+Appl. Start - Time of day,LOCAL,TT,S,1,,applications
+Appl. Start - Time of day,LOCAL,TT,II,1,,applications
+% Relative Humidity,TBD,R,I,1,,applications
+% Relative Humidity,TBD,R,F,1,,applications
+% Relative Humidity,TBD,R,H,1,,applications
+% Relative Humidity,TBD,R,S,1,,applications
+% Relative Humidity,TBD,R,II,1,,applications
+% Relative Humidity,TBD,A,I,1,,applications
+% Relative Humidity,TBD,A,F,1,,applications
+% Relative Humidity,TBD,A,H,1,,applications
+% Relative Humidity,TBD,A,S,1,,applications
+% Relative Humidity,TBD,A,II,1,,applications
+% Relative Humidity,TBD,D,I,1,,applications
+% Relative Humidity,TBD,D,F,1,,applications
+% Relative Humidity,TBD,D,H,1,,applications
+% Relative Humidity,TBD,D,S,1,,applications
+% Relative Humidity,TBD,D,II,1,,applications
+% Relative Humidity,LOCAL,TT,I,1,,applications
+% Relative Humidity,LOCAL,TT,F,1,,applications
+% Relative Humidity,LOCAL,TT,H,1,,applications
+% Relative Humidity,LOCAL,TT,S,1,,applications
+% Relative Humidity,LOCAL,TT,II,1,,applications
+Air temperature,TBD,R,I,1,,applications
+Air temperature,TBD,R,F,1,,applications
+Air temperature,TBD,R,H,1,,applications
+Air temperature,TBD,R,S,1,,applications
+Air temperature,TBD,R,II,1,,applications
+Air temperature,TBD,A,I,1,,applications
+Air temperature,TBD,A,F,1,,applications
+Air temperature,TBD,A,H,1,,applications
+Air temperature,TBD,A,S,1,,applications
+Air temperature,TBD,A,II,1,,applications
+Air temperature,TBD,D,I,1,,applications
+Air temperature,TBD,D,F,1,,applications
+Air temperature,TBD,D,H,1,,applications
+Air temperature,TBD,D,S,1,,applications
+Air temperature,TBD,D,II,1,,applications
+Air temperature,LOCAL,TT,I,1,,applications
+Air temperature,LOCAL,TT,F,1,,applications
+Air temperature,LOCAL,TT,H,1,,applications
+Air temperature,LOCAL,TT,S,1,,applications
+Air temperature,LOCAL,TT,II,1,,applications
+Air temperature Unit,TBD,R,I,1,,applications
+Air temperature Unit,TBD,R,F,1,,applications
+Air temperature Unit,TBD,R,H,1,,applications
+Air temperature Unit,TBD,R,S,1,,applications
+Air temperature Unit,TBD,R,II,1,,applications
+Air temperature Unit,TBD,A,I,1,,applications
+Air temperature Unit,TBD,A,F,1,,applications
+Air temperature Unit,TBD,A,H,1,,applications
+Air temperature Unit,TBD,A,S,1,,applications
+Air temperature Unit,TBD,A,II,1,,applications
+Air temperature Unit,TBD,D,I,1,,applications
+Air temperature Unit,TBD,D,F,1,,applications
+Air temperature Unit,TBD,D,H,1,,applications
+Air temperature Unit,TBD,D,S,1,,applications
+Air temperature Unit,TBD,D,II,1,,applications
+Air temperature Unit,LOCAL,TT,I,1,,applications
+Air temperature Unit,LOCAL,TT,F,1,,applications
+Air temperature Unit,LOCAL,TT,H,1,,applications
+Air temperature Unit,LOCAL,TT,S,1,,applications
+Air temperature Unit,LOCAL,TT,II,1,,applications
+% Cloud Cover,TBD,R,I,1,,applications
+% Cloud Cover,TBD,R,F,1,,applications
+% Cloud Cover,TBD,R,H,1,,applications
+% Cloud Cover,TBD,R,S,1,,applications
+% Cloud Cover,TBD,R,II,1,,applications
+% Cloud Cover,TBD,A,I,1,,applications
+% Cloud Cover,TBD,A,F,1,,applications
+% Cloud Cover,TBD,A,H,1,,applications
+% Cloud Cover,TBD,A,S,1,,applications
+% Cloud Cover,TBD,A,II,1,,applications
+% Cloud Cover,TBD,D,I,1,,applications
+% Cloud Cover,TBD,D,F,1,,applications
+% Cloud Cover,TBD,D,H,1,,applications
+% Cloud Cover,TBD,D,S,1,,applications
+% Cloud Cover,TBD,D,II,1,,applications
+% Cloud Cover,LOCAL,TT,I,1,,applications
+% Cloud Cover,LOCAL,TT,F,1,,applications
+% Cloud Cover,LOCAL,TT,H,1,,applications
+% Cloud Cover,LOCAL,TT,S,1,,applications
+% Cloud Cover,LOCAL,TT,II,1,,applications
+Appl. Wind Strength,TBD,R,I,1,,applications
+Appl. Wind Strength,TBD,R,F,1,,applications
+Appl. Wind Strength,TBD,R,H,1,,applications
+Appl. Wind Strength,TBD,R,S,1,,applications
+Appl. Wind Strength,TBD,R,II,1,,applications
+Appl. Wind Strength,TBD,A,I,1,,applications
+Appl. Wind Strength,TBD,A,F,1,,applications
+Appl. Wind Strength,TBD,A,H,1,,applications
+Appl. Wind Strength,TBD,A,S,1,,applications
+Appl. Wind Strength,TBD,A,II,1,,applications
+Appl. Wind Strength,TBD,D,I,1,,applications
+Appl. Wind Strength,TBD,D,F,1,,applications
+Appl. Wind Strength,TBD,D,H,1,,applications
+Appl. Wind Strength,TBD,D,S,1,,applications
+Appl. Wind Strength,TBD,D,II,1,,applications
+Appl. Wind Strength,LOCAL,TT,I,1,,applications
+Appl. Wind Strength,LOCAL,TT,F,1,,applications
+Appl. Wind Strength,LOCAL,TT,H,1,,applications
+Appl. Wind Strength,LOCAL,TT,S,1,,applications
+Appl. Wind Strength,LOCAL,TT,II,1,,applications
+Plant Condition,TBD,R,I,1,,applications
+Plant Condition,TBD,R,F,1,,applications
+Plant Condition,TBD,R,H,1,,applications
+Plant Condition,TBD,R,S,1,,applications
+Plant Condition,TBD,R,II,1,,applications
+Plant Condition,TBD,A,I,1,,applications
+Plant Condition,TBD,A,F,1,,applications
+Plant Condition,TBD,A,H,1,,applications
+Plant Condition,TBD,A,S,1,,applications
+Plant Condition,TBD,A,II,1,,applications
+Plant Condition,TBD,D,I,1,,applications
+Plant Condition,TBD,D,F,1,,applications
+Plant Condition,TBD,D,H,1,,applications
+Plant Condition,TBD,D,S,1,,applications
+Plant Condition,TBD,D,II,1,,applications
+Plant Condition,LOCAL,TT,I,1,,applications
+Plant Condition,LOCAL,TT,F,1,,applications
+Plant Condition,LOCAL,TT,H,1,,applications
+Plant Condition,LOCAL,TT,S,1,,applications
+Plant Condition,LOCAL,TT,II,1,,applications
+Soil Moisture,TBD,R,I,1,,applications
+Soil Moisture,TBD,R,F,0,,applications
+Soil Moisture,TBD,R,H,1,,applications
+Soil Moisture,TBD,R,S,1,,applications
+Soil Moisture,TBD,R,II,1,,applications
+Soil Moisture,TBD,A,I,1,,applications
+Soil Moisture,TBD,A,F,0,,applications
+Soil Moisture,TBD,A,H,1,,applications
+Soil Moisture,TBD,A,S,1,,applications
+Soil Moisture,TBD,A,II,1,,applications
+Soil Moisture,TBD,D,I,1,,applications
+Soil Moisture,TBD,D,F,0,,applications
+Soil Moisture,TBD,D,H,1,,applications
+Soil Moisture,TBD,D,S,1,,applications
+Soil Moisture,TBD,D,II,1,,applications
+Soil Moisture,LOCAL,TT,I,1,,applications
+Soil Moisture,LOCAL,TT,F,0,,applications
+Soil Moisture,LOCAL,TT,H,1,,applications
+Soil Moisture,LOCAL,TT,S,1,,applications
+Soil Moisture,LOCAL,TT,II,1,,applications
+Soil Condition (surface),TBD,R,I,1,,applications
+Soil Condition (surface),TBD,R,F,0,,applications
+Soil Condition (surface),TBD,R,H,1,,applications
+Soil Condition (surface),TBD,R,S,1,,applications
+Soil Condition (surface),TBD,R,II,1,,applications
+Soil Condition (surface),TBD,A,I,1,,applications
+Soil Condition (surface),TBD,A,F,0,,applications
+Soil Condition (surface),TBD,A,H,1,,applications
+Soil Condition (surface),TBD,A,S,1,,applications
+Soil Condition (surface),TBD,A,II,1,,applications
+Soil Condition (surface),TBD,D,I,1,,applications
+Soil Condition (surface),TBD,D,F,0,,applications
+Soil Condition (surface),TBD,D,H,1,,applications
+Soil Condition (surface),TBD,D,S,1,,applications
+Soil Condition (surface),TBD,D,II,1,,applications
+Soil Condition (surface),LOCAL,TT,I,1,,applications
+Soil Condition (surface),LOCAL,TT,F,0,,applications
+Soil Condition (surface),LOCAL,TT,H,1,,applications
+Soil Condition (surface),LOCAL,TT,S,1,,applications
+Soil Condition (surface),LOCAL,TT,II,1,,applications
+Problem with Application?,TBD,R,I,1,,applications
+Problem with Application?,TBD,R,F,1,,applications
+Problem with Application?,TBD,R,H,1,,applications
+Problem with Application?,TBD,R,S,1,,applications
+Problem with Application?,TBD,R,II,1,,applications
+Problem with Application?,TBD,A,I,1,,applications
+Problem with Application?,TBD,A,F,1,,applications
+Problem with Application?,TBD,A,H,1,,applications
+Problem with Application?,TBD,A,S,1,,applications
+Problem with Application?,TBD,A,II,1,,applications
+Problem with Application?,TBD,D,I,1,,applications
+Problem with Application?,TBD,D,F,1,,applications
+Problem with Application?,TBD,D,H,1,,applications
+Problem with Application?,TBD,D,S,1,,applications
+Problem with Application?,TBD,D,II,1,,applications
+Problem with Application?,LOCAL,TT,I,1,,applications
+Problem with Application?,LOCAL,TT,F,1,,applications
+Problem with Application?,LOCAL,TT,H,1,,applications
+Problem with Application?,LOCAL,TT,S,1,,applications
+Problem with Application?,LOCAL,TT,II,1,,applications
+Crop Coverage (%),TBD,R,I,1,,applications
+Crop Coverage (%),TBD,R,F,1,,applications
+Crop Coverage (%),TBD,R,H,1,,applications
+Crop Coverage (%),TBD,R,S,0,,applications
+Crop Coverage (%),TBD,R,II,1,,applications
+Crop Coverage (%),TBD,A,I,1,,applications
+Crop Coverage (%),TBD,A,F,1,,applications
+Crop Coverage (%),TBD,A,H,1,,applications
+Crop Coverage (%),TBD,A,S,1,,applications
+Crop Coverage (%),TBD,A,II,1,,applications
+Crop Coverage (%),TBD,D,I,1,,applications
+Crop Coverage (%),TBD,D,F,1,,applications
+Crop Coverage (%),TBD,D,H,1,,applications
+Crop Coverage (%),TBD,D,S,0,,applications
+Crop Coverage (%),TBD,D,II,1,,applications
+Crop Coverage (%),LOCAL,TT,I,1,,applications
+Crop Coverage (%),LOCAL,TT,F,1,,applications
+Crop Coverage (%),LOCAL,TT,H,1,,applications
+Crop Coverage (%),LOCAL,TT,S,0,,applications
+Crop Coverage (%),LOCAL,TT,II,1,,applications
+Application Plant Condition,TBD,R,I,1,,applications
+Application Plant Condition,TBD,R,F,1,,applications
+Application Plant Condition,TBD,R,H,1,,applications
+Application Plant Condition,TBD,R,S,0,,applications
+Application Plant Condition,TBD,R,II,1,,applications
+Application Plant Condition,TBD,A,I,1,,applications
+Application Plant Condition,TBD,A,F,1,,applications
+Application Plant Condition,TBD,A,H,1,,applications
+Application Plant Condition,TBD,A,S,1,,applications
+Application Plant Condition,TBD,A,II,1,,applications
+Application Plant Condition,TBD,D,I,1,,applications
+Application Plant Condition,TBD,D,F,1,,applications
+Application Plant Condition,TBD,D,H,1,,applications
+Application Plant Condition,TBD,D,S,0,,applications
+Application Plant Condition,TBD,D,II,1,,applications
+Application Plant Condition,LOCAL,TT,I,1,,applications
+Application Plant Condition,LOCAL,TT,F,1,,applications
+Application Plant Condition,LOCAL,TT,H,1,,applications
+Application Plant Condition,LOCAL,TT,S,0,,applications
+Application Plant Condition,LOCAL,TT,II,1,,applications
+Crop Stage Majority (appl),TBD,R,I,1,,applications
+Crop Stage Majority (appl),TBD,R,F,1,,applications
+Crop Stage Majority (appl),TBD,R,H,1,,applications
+Crop Stage Majority (appl),TBD,R,S,1,,applications
+Crop Stage Majority (appl),TBD,R,II,1,,applications
+Crop Stage Majority (appl),TBD,A,I,1,,applications
+Crop Stage Majority (appl),TBD,A,F,1,,applications
+Crop Stage Majority (appl),TBD,A,H,1,,applications
+Crop Stage Majority (appl),TBD,A,S,1,,applications
+Crop Stage Majority (appl),TBD,A,II,1,,applications
+Crop Stage Majority (appl),TBD,D,I,1,,applications
+Crop Stage Majority (appl),TBD,D,F,1,,applications
+Crop Stage Majority (appl),TBD,D,H,1,,applications
+Crop Stage Majority (appl),TBD,D,S,1,,applications
+Crop Stage Majority (appl),TBD,D,II,1,,applications
+Crop Stage Majority (appl),LOCAL,TT,I,1,,applications
+Crop Stage Majority (appl),LOCAL,TT,F,1,,applications
+Crop Stage Majority (appl),LOCAL,TT,H,1,,applications
+Crop Stage Majority (appl),LOCAL,TT,S,1,,applications
+Crop Stage Majority (appl),LOCAL,TT,II,1,,applications
+Crop Stage Majority Percent (appl),TBD,R,I,1,,applications
+Crop Stage Majority Percent (appl),TBD,R,F,1,,applications
+Crop Stage Majority Percent (appl),TBD,R,H,1,,applications
+Crop Stage Majority Percent (appl),TBD,R,S,1,,applications
+Crop Stage Majority Percent (appl),TBD,R,II,1,,applications
+Crop Stage Majority Percent (appl),TBD,A,I,1,,applications
+Crop Stage Majority Percent (appl),TBD,A,F,1,,applications
+Crop Stage Majority Percent (appl),TBD,A,H,1,,applications
+Crop Stage Majority Percent (appl),TBD,A,S,1,,applications
+Crop Stage Majority Percent (appl),TBD,A,II,1,,applications
+Crop Stage Majority Percent (appl),TBD,D,I,1,,applications
+Crop Stage Majority Percent (appl),TBD,D,F,1,,applications
+Crop Stage Majority Percent (appl),TBD,D,H,1,,applications
+Crop Stage Majority Percent (appl),TBD,D,S,1,,applications
+Crop Stage Majority Percent (appl),TBD,D,II,1,,applications
+Crop Stage Majority Percent (appl),LOCAL,TT,I,1,,applications
+Crop Stage Majority Percent (appl),LOCAL,TT,F,1,,applications
+Crop Stage Majority Percent (appl),LOCAL,TT,H,1,,applications
+Crop Stage Majority Percent (appl),LOCAL,TT,S,1,,applications
+Crop Stage Majority Percent (appl),LOCAL,TT,II,1,,applications
+Crop Stage Minimum (appl),TBD,R,I,1,,applications
+Crop Stage Minimum (appl),TBD,R,F,1,,applications
+Crop Stage Minimum (appl),TBD,R,H,1,,applications
+Crop Stage Minimum (appl),TBD,R,S,1,,applications
+Crop Stage Minimum (appl),TBD,R,II,1,,applications
+Crop Stage Minimum (appl),TBD,A,I,1,,applications
+Crop Stage Minimum (appl),TBD,A,F,1,,applications
+Crop Stage Minimum (appl),TBD,A,H,1,,applications
+Crop Stage Minimum (appl),TBD,A,S,1,,applications
+Crop Stage Minimum (appl),TBD,A,II,1,,applications
+Crop Stage Minimum (appl),TBD,D,I,1,,applications
+Crop Stage Minimum (appl),TBD,D,F,1,,applications
+Crop Stage Minimum (appl),TBD,D,H,1,,applications
+Crop Stage Minimum (appl),TBD,D,S,1,,applications
+Crop Stage Minimum (appl),TBD,D,II,1,,applications
+Crop Stage Minimum (appl),LOCAL,TT,I,1,,applications
+Crop Stage Minimum (appl),LOCAL,TT,F,1,,applications
+Crop Stage Minimum (appl),LOCAL,TT,H,1,,applications
+Crop Stage Minimum (appl),LOCAL,TT,S,1,,applications
+Crop Stage Minimum (appl),LOCAL,TT,II,1,,applications
+Crop Stage Minimum Percent (appl),TBD,R,I,1,,applications
+Crop Stage Minimum Percent (appl),TBD,R,F,1,,applications
+Crop Stage Minimum Percent (appl),TBD,R,H,1,,applications
+Crop Stage Minimum Percent (appl),TBD,R,S,1,,applications
+Crop Stage Minimum Percent (appl),TBD,R,II,1,,applications
+Crop Stage Minimum Percent (appl),TBD,A,I,1,,applications
+Crop Stage Minimum Percent (appl),TBD,A,F,1,,applications
+Crop Stage Minimum Percent (appl),TBD,A,H,1,,applications
+Crop Stage Minimum Percent (appl),TBD,A,S,1,,applications
+Crop Stage Minimum Percent (appl),TBD,A,II,1,,applications
+Crop Stage Minimum Percent (appl),TBD,D,I,1,,applications
+Crop Stage Minimum Percent (appl),TBD,D,F,1,,applications
+Crop Stage Minimum Percent (appl),TBD,D,H,1,,applications
+Crop Stage Minimum Percent (appl),TBD,D,S,1,,applications
+Crop Stage Minimum Percent (appl),TBD,D,II,1,,applications
+Crop Stage Minimum Percent (appl),LOCAL,TT,I,1,,applications
+Crop Stage Minimum Percent (appl),LOCAL,TT,F,1,,applications
+Crop Stage Minimum Percent (appl),LOCAL,TT,H,1,,applications
+Crop Stage Minimum Percent (appl),LOCAL,TT,S,1,,applications
+Crop Stage Minimum Percent (appl),LOCAL,TT,II,1,,applications
+Crop Stage Maximum (appl),TBD,R,I,1,,applications
+Crop Stage Maximum (appl),TBD,R,F,1,,applications
+Crop Stage Maximum (appl),TBD,R,H,1,,applications
+Crop Stage Maximum (appl),TBD,R,S,1,,applications
+Crop Stage Maximum (appl),TBD,R,II,1,,applications
+Crop Stage Maximum (appl),TBD,A,I,1,,applications
+Crop Stage Maximum (appl),TBD,A,F,1,,applications
+Crop Stage Maximum (appl),TBD,A,H,1,,applications
+Crop Stage Maximum (appl),TBD,A,S,1,,applications
+Crop Stage Maximum (appl),TBD,A,II,1,,applications
+Crop Stage Maximum (appl),TBD,D,I,1,,applications
+Crop Stage Maximum (appl),TBD,D,F,1,,applications
+Crop Stage Maximum (appl),TBD,D,H,1,,applications
+Crop Stage Maximum (appl),TBD,D,S,1,,applications
+Crop Stage Maximum (appl),TBD,D,II,1,,applications
+Crop Stage Maximum (appl),LOCAL,TT,I,1,,applications
+Crop Stage Maximum (appl),LOCAL,TT,F,1,,applications
+Crop Stage Maximum (appl),LOCAL,TT,H,1,,applications
+Crop Stage Maximum (appl),LOCAL,TT,S,1,,applications
+Crop Stage Maximum (appl),LOCAL,TT,II,1,,applications
+Crop Stage Maximum Percent (appl),TBD,R,I,1,,applications
+Crop Stage Maximum Percent (appl),TBD,R,F,1,,applications
+Crop Stage Maximum Percent (appl),TBD,R,H,1,,applications
+Crop Stage Maximum Percent (appl),TBD,R,S,1,,applications
+Crop Stage Maximum Percent (appl),TBD,R,II,1,,applications
+Crop Stage Maximum Percent (appl),TBD,A,I,1,,applications
+Crop Stage Maximum Percent (appl),TBD,A,F,1,,applications
+Crop Stage Maximum Percent (appl),TBD,A,H,1,,applications
+Crop Stage Maximum Percent (appl),TBD,A,S,1,,applications
+Crop Stage Maximum Percent (appl),TBD,A,II,1,,applications
+Crop Stage Maximum Percent (appl),TBD,D,I,1,,applications
+Crop Stage Maximum Percent (appl),TBD,D,F,1,,applications
+Crop Stage Maximum Percent (appl),TBD,D,H,1,,applications
+Crop Stage Maximum Percent (appl),TBD,D,S,1,,applications
+Crop Stage Maximum Percent (appl),TBD,D,II,1,,applications
+Crop Stage Maximum Percent (appl),LOCAL,TT,I,1,,applications
+Crop Stage Maximum Percent (appl),LOCAL,TT,F,1,,applications
+Crop Stage Maximum Percent (appl),LOCAL,TT,H,1,,applications
+Crop Stage Maximum Percent (appl),LOCAL,TT,S,1,,applications
+Crop Stage Maximum Percent (appl),LOCAL,TT,II,1,,applications
+Target Stage Majority (appl),TBD,R,I,1,,applications
+Target Stage Majority (appl),TBD,R,F,0,,applications
+Target Stage Majority (appl),TBD,R,H,1,,applications
+Target Stage Majority (appl),TBD,R,S,1,,applications
+Target Stage Majority (appl),TBD,R,II,1,,applications
+Target Stage Majority (appl),TBD,A,I,1,,applications
+Target Stage Majority (appl),TBD,A,F,0,,applications
+Target Stage Majority (appl),TBD,A,H,1,,applications
+Target Stage Majority (appl),TBD,A,S,1,,applications
+Target Stage Majority (appl),TBD,A,II,1,,applications
+Target Stage Majority (appl),TBD,D,I,1,,applications
+Target Stage Majority (appl),TBD,D,F,0,,applications
+Target Stage Majority (appl),TBD,D,H,1,,applications
+Target Stage Majority (appl),TBD,D,S,1,,applications
+Target Stage Majority (appl),TBD,D,II,1,,applications
+Target Stage Majority (appl),LOCAL,TT,I,1,,applications
+Target Stage Majority (appl),LOCAL,TT,F,0,,applications
+Target Stage Majority (appl),LOCAL,TT,H,1,,applications
+Target Stage Majority (appl),LOCAL,TT,S,1,,applications
+Target Stage Majority (appl),LOCAL,TT,II,1,,applications
+Target Stage Majority Percent (appl),TBD,R,I,1,,applications
+Target Stage Majority Percent (appl),TBD,R,F,0,,applications
+Target Stage Majority Percent (appl),TBD,R,H,1,,applications
+Target Stage Majority Percent (appl),TBD,R,S,1,,applications
+Target Stage Majority Percent (appl),TBD,R,II,1,,applications
+Target Stage Majority Percent (appl),TBD,A,I,1,,applications
+Target Stage Majority Percent (appl),TBD,A,F,0,,applications
+Target Stage Majority Percent (appl),TBD,A,H,1,,applications
+Target Stage Majority Percent (appl),TBD,A,S,1,,applications
+Target Stage Majority Percent (appl),TBD,A,II,1,,applications
+Target Stage Majority Percent (appl),TBD,D,I,1,,applications
+Target Stage Majority Percent (appl),TBD,D,F,0,,applications
+Target Stage Majority Percent (appl),TBD,D,H,1,,applications
+Target Stage Majority Percent (appl),TBD,D,S,1,,applications
+Target Stage Majority Percent (appl),TBD,D,II,1,,applications
+Target Stage Majority Percent (appl),LOCAL,TT,I,1,,applications
+Target Stage Majority Percent (appl),LOCAL,TT,F,0,,applications
+Target Stage Majority Percent (appl),LOCAL,TT,H,1,,applications
+Target Stage Majority Percent (appl),LOCAL,TT,S,1,,applications
+Target Stage Majority Percent (appl),LOCAL,TT,II,1,,applications
+Target Stage Minimum (appl),TBD,R,I,1,,applications
+Target Stage Minimum (appl),TBD,R,F,0,,applications
+Target Stage Minimum (appl),TBD,R,H,1,,applications
+Target Stage Minimum (appl),TBD,R,S,1,,applications
+Target Stage Minimum (appl),TBD,R,II,1,,applications
+Target Stage Minimum (appl),TBD,A,I,1,,applications
+Target Stage Minimum (appl),TBD,A,F,0,,applications
+Target Stage Minimum (appl),TBD,A,H,1,,applications
+Target Stage Minimum (appl),TBD,A,S,1,,applications
+Target Stage Minimum (appl),TBD,A,II,1,,applications
+Target Stage Minimum (appl),TBD,D,I,1,,applications
+Target Stage Minimum (appl),TBD,D,F,0,,applications
+Target Stage Minimum (appl),TBD,D,H,1,,applications
+Target Stage Minimum (appl),TBD,D,S,1,,applications
+Target Stage Minimum (appl),TBD,D,II,1,,applications
+Target Stage Minimum (appl),LOCAL,TT,I,1,,applications
+Target Stage Minimum (appl),LOCAL,TT,F,0,,applications
+Target Stage Minimum (appl),LOCAL,TT,H,1,,applications
+Target Stage Minimum (appl),LOCAL,TT,S,1,,applications
+Target Stage Minimum (appl),LOCAL,TT,II,1,,applications
+Target Stage Minimum Percent (appl),TBD,R,I,1,,applications
+Target Stage Minimum Percent (appl),TBD,R,F,0,,applications
+Target Stage Minimum Percent (appl),TBD,R,H,1,,applications
+Target Stage Minimum Percent (appl),TBD,R,S,1,,applications
+Target Stage Minimum Percent (appl),TBD,R,II,1,,applications
+Target Stage Minimum Percent (appl),TBD,A,I,1,,applications
+Target Stage Minimum Percent (appl),TBD,A,F,0,,applications
+Target Stage Minimum Percent (appl),TBD,A,H,1,,applications
+Target Stage Minimum Percent (appl),TBD,A,S,1,,applications
+Target Stage Minimum Percent (appl),TBD,A,II,1,,applications
+Target Stage Minimum Percent (appl),TBD,D,I,1,,applications
+Target Stage Minimum Percent (appl),TBD,D,F,0,,applications
+Target Stage Minimum Percent (appl),TBD,D,H,1,,applications
+Target Stage Minimum Percent (appl),TBD,D,S,1,,applications
+Target Stage Minimum Percent (appl),TBD,D,II,1,,applications
+Target Stage Minimum Percent (appl),LOCAL,TT,I,1,,applications
+Target Stage Minimum Percent (appl),LOCAL,TT,F,0,,applications
+Target Stage Minimum Percent (appl),LOCAL,TT,H,1,,applications
+Target Stage Minimum Percent (appl),LOCAL,TT,S,1,,applications
+Target Stage Minimum Percent (appl),LOCAL,TT,II,1,,applications
+Target Stage Maximum (appl),TBD,R,I,1,,applications
+Target Stage Maximum (appl),TBD,R,F,0,,applications
+Target Stage Maximum (appl),TBD,R,H,1,,applications
+Target Stage Maximum (appl),TBD,R,S,1,,applications
+Target Stage Maximum (appl),TBD,R,II,1,,applications
+Target Stage Maximum (appl),TBD,A,I,1,,applications
+Target Stage Maximum (appl),TBD,A,F,0,,applications
+Target Stage Maximum (appl),TBD,A,H,1,,applications
+Target Stage Maximum (appl),TBD,A,S,1,,applications
+Target Stage Maximum (appl),TBD,A,II,1,,applications
+Target Stage Maximum (appl),TBD,D,I,1,,applications
+Target Stage Maximum (appl),TBD,D,F,0,,applications
+Target Stage Maximum (appl),TBD,D,H,1,,applications
+Target Stage Maximum (appl),TBD,D,S,1,,applications
+Target Stage Maximum (appl),TBD,D,II,1,,applications
+Target Stage Maximum (appl),LOCAL,TT,I,1,,applications
+Target Stage Maximum (appl),LOCAL,TT,F,0,,applications
+Target Stage Maximum (appl),LOCAL,TT,H,1,,applications
+Target Stage Maximum (appl),LOCAL,TT,S,1,,applications
+Target Stage Maximum (appl),LOCAL,TT,II,1,,applications
+Target Stage Maximum Percent (appl),TBD,R,I,1,,applications
+Target Stage Maximum Percent (appl),TBD,R,F,0,,applications
+Target Stage Maximum Percent (appl),TBD,R,H,1,,applications
+Target Stage Maximum Percent (appl),TBD,R,S,1,,applications
+Target Stage Maximum Percent (appl),TBD,R,II,1,,applications
+Target Stage Maximum Percent (appl),TBD,A,I,1,,applications
+Target Stage Maximum Percent (appl),TBD,A,F,0,,applications
+Target Stage Maximum Percent (appl),TBD,A,H,1,,applications
+Target Stage Maximum Percent (appl),TBD,A,S,1,,applications
+Target Stage Maximum Percent (appl),TBD,A,II,1,,applications
+Target Stage Maximum Percent (appl),TBD,D,I,1,,applications
+Target Stage Maximum Percent (appl),TBD,D,F,0,,applications
+Target Stage Maximum Percent (appl),TBD,D,H,1,,applications
+Target Stage Maximum Percent (appl),TBD,D,S,1,,applications
+Target Stage Maximum Percent (appl),TBD,D,II,1,,applications
+Target Stage Maximum Percent (appl),LOCAL,TT,I,1,,applications
+Target Stage Maximum Percent (appl),LOCAL,TT,F,0,,applications
+Target Stage Maximum Percent (appl),LOCAL,TT,H,1,,applications
+Target Stage Maximum Percent (appl),LOCAL,TT,S,1,,applications
+Target Stage Maximum Percent (appl),LOCAL,TT,II,1,,applications
+Application Method,TBD,R,I,1,,applications
+Application Method,TBD,R,F,1,,applications
+Application Method,TBD,R,H,1,,applications
+Application Method,TBD,R,S,1,,applications
+Application Method,TBD,R,II,1,,applications
+Application Method,TBD,A,I,1,,applications
+Application Method,TBD,A,F,1,,applications
+Application Method,TBD,A,H,1,,applications
+Application Method,TBD,A,S,1,,applications
+Application Method,TBD,A,II,1,,applications
+Application Method,TBD,D,I,1,,applications
+Application Method,TBD,D,F,1,,applications
+Application Method,TBD,D,H,1,,applications
+Application Method,TBD,D,S,1,,applications
+Application Method,TBD,D,II,1,,applications
+Application Method,LOCAL,TT,I,1,,applications
+Application Method,LOCAL,TT,F,1,,applications
+Application Method,LOCAL,TT,H,1,,applications
+Application Method,LOCAL,TT,S,1,,applications
+Application Method,LOCAL,TT,II,1,,applications
+Application Placement,TBD,R,I,1,,applications
+Application Placement,TBD,R,F,1,,applications
+Application Placement,TBD,R,H,1,,applications
+Application Placement,TBD,R,S,1,,applications
+Application Placement,TBD,R,II,1,,applications
+Application Placement,TBD,A,I,1,,applications
+Application Placement,TBD,A,F,1,,applications
+Application Placement,TBD,A,H,1,,applications
+Application Placement,TBD,A,S,1,,applications
+Application Placement,TBD,A,II,1,,applications
+Application Placement,TBD,D,I,1,,applications
+Application Placement,TBD,D,F,1,,applications
+Application Placement,TBD,D,H,1,,applications
+Application Placement,TBD,D,S,1,,applications
+Application Placement,TBD,D,II,1,,applications
+Application Placement,LOCAL,TT,I,1,,applications
+Application Placement,LOCAL,TT,F,1,,applications
+Application Placement,LOCAL,TT,H,1,,applications
+Application Placement,LOCAL,TT,S,1,,applications
+Application Placement,LOCAL,TT,II,1,,applications
+Application Equipment,TBD,R,I,1,,applications
+Application Equipment,TBD,R,F,1,,applications
+Application Equipment,TBD,R,H,1,,applications
+Application Equipment,TBD,R,S,1,,applications
+Application Equipment,TBD,R,II,1,,applications
+Application Equipment,TBD,A,I,1,,applications
+Application Equipment,TBD,A,F,1,,applications
+Application Equipment,TBD,A,H,1,,applications
+Application Equipment,TBD,A,S,1,,applications
+Application Equipment,TBD,A,II,1,,applications
+Application Equipment,TBD,D,I,1,,applications
+Application Equipment,TBD,D,F,1,,applications
+Application Equipment,TBD,D,H,1,,applications
+Application Equipment,TBD,D,S,1,,applications
+Application Equipment,TBD,D,II,1,,applications
+Application Equipment,LOCAL,TT,I,1,,applications
+Application Equipment,LOCAL,TT,F,1,,applications
+Application Equipment,LOCAL,TT,H,1,,applications
+Application Equipment,LOCAL,TT,S,1,,applications
+Application Equipment,LOCAL,TT,II,1,,applications
+Propellant Type,TBD,R,I,1,,applications
+Propellant Type,TBD,R,F,1,,applications
+Propellant Type,TBD,R,H,1,,applications
+Propellant Type,TBD,R,S,0,,applications
+Propellant Type,TBD,R,II,1,,applications
+Propellant Type,TBD,A,I,1,,applications
+Propellant Type,TBD,A,F,1,,applications
+Propellant Type,TBD,A,H,1,,applications
+Propellant Type,TBD,A,S,1,,applications
+Propellant Type,TBD,A,II,1,,applications
+Propellant Type,TBD,D,I,1,,applications
+Propellant Type,TBD,D,F,1,,applications
+Propellant Type,TBD,D,H,1,,applications
+Propellant Type,TBD,D,S,0,,applications
+Propellant Type,TBD,D,II,1,,applications
+Propellant Type,LOCAL,TT,I,1,,applications
+Propellant Type,LOCAL,TT,F,1,,applications
+Propellant Type,LOCAL,TT,H,1,,applications
+Propellant Type,LOCAL,TT,S,1,,applications
+Propellant Type,LOCAL,TT,II,1,,applications
+Carrier,TBD,R,I,1,,applications
+Carrier,TBD,R,F,1,,applications
+Carrier,TBD,R,H,1,,applications
+Carrier,TBD,R,S,1,,applications
+Carrier,TBD,R,II,1,,applications
+Carrier,TBD,A,I,1,,applications
+Carrier,TBD,A,F,1,,applications
+Carrier,TBD,A,H,1,,applications
+Carrier,TBD,A,S,1,,applications
+Carrier,TBD,A,II,1,,applications
+Carrier,TBD,D,I,1,,applications
+Carrier,TBD,D,F,1,,applications
+Carrier,TBD,D,H,1,,applications
+Carrier,TBD,D,S,1,,applications
+Carrier,TBD,D,II,1,,applications
+Carrier,LOCAL,TT,I,1,,applications
+Carrier,LOCAL,TT,F,1,,applications
+Carrier,LOCAL,TT,H,1,,applications
+Carrier,LOCAL,TT,S,1,,applications
+Carrier,LOCAL,TT,II,1,,applications
+Appl./Slurry Volume,TBD,R,I,1,,applications
+Appl./Slurry Volume,TBD,R,F,1,,applications
+Appl./Slurry Volume,TBD,R,H,1,,applications
+Appl./Slurry Volume,TBD,R,S,1,,applications
+Appl./Slurry Volume,TBD,R,II,1,,applications
+Appl./Slurry Volume,TBD,A,I,1,,applications
+Appl./Slurry Volume,TBD,A,F,1,,applications
+Appl./Slurry Volume,TBD,A,H,1,,applications
+Appl./Slurry Volume,TBD,A,S,1,,applications
+Appl./Slurry Volume,TBD,A,II,1,,applications
+Appl./Slurry Volume,TBD,D,I,1,,applications
+Appl./Slurry Volume,TBD,D,F,1,,applications
+Appl./Slurry Volume,TBD,D,H,1,,applications
+Appl./Slurry Volume,TBD,D,S,1,,applications
+Appl./Slurry Volume,TBD,D,II,1,,applications
+Appl./Slurry Volume,LOCAL,TT,I,1,,applications
+Appl./Slurry Volume,LOCAL,TT,F,1,,applications
+Appl./Slurry Volume,LOCAL,TT,H,1,,applications
+Appl./Slurry Volume,LOCAL,TT,S,1,,applications
+Appl./Slurry Volume,LOCAL,TT,II,1,,applications
+Appl./Slurry Volume Unit,TBD,R,I,1,,applications
+Appl./Slurry Volume Unit,TBD,R,F,1,,applications
+Appl./Slurry Volume Unit,TBD,R,H,1,,applications
+Appl./Slurry Volume Unit,TBD,R,S,1,,applications
+Appl./Slurry Volume Unit,TBD,R,II,1,,applications
+Appl./Slurry Volume Unit,TBD,A,I,1,,applications
+Appl./Slurry Volume Unit,TBD,A,F,1,,applications
+Appl./Slurry Volume Unit,TBD,A,H,1,,applications
+Appl./Slurry Volume Unit,TBD,A,S,1,,applications
+Appl./Slurry Volume Unit,TBD,A,II,1,,applications
+Appl./Slurry Volume Unit,TBD,D,I,1,,applications
+Appl./Slurry Volume Unit,TBD,D,F,1,,applications
+Appl./Slurry Volume Unit,TBD,D,H,1,,applications
+Appl./Slurry Volume Unit,TBD,D,S,1,,applications
+Appl./Slurry Volume Unit,TBD,D,II,1,,applications
+Appl./Slurry Volume Unit,LOCAL,TT,I,1,,applications
+Appl./Slurry Volume Unit,LOCAL,TT,F,1,,applications
+Appl./Slurry Volume Unit,LOCAL,TT,H,1,,applications
+Appl./Slurry Volume Unit,LOCAL,TT,S,1,,applications
+Appl./Slurry Volume Unit,LOCAL,TT,II,1,,applications
+SE ID,TBD,R,I,1,,assessments
+SE ID,TBD,R,F,1,,assessments
+SE ID,TBD,R,H,1,,assessments
+SE ID,TBD,R,S,1,,assessments
+SE ID,TBD,R,II,1,,assessments
+SE ID,TBD,A,I,1,,assessments
+SE ID,TBD,A,F,1,,assessments
+SE ID,TBD,A,H,1,,assessments
+SE ID,TBD,A,S,1,,assessments
+SE ID,TBD,A,II,1,,assessments
+SE ID,TBD,D,I,1,,assessments
+SE ID,TBD,D,F,1,,assessments
+SE ID,TBD,D,H,1,,assessments
+SE ID,TBD,D,S,1,,assessments
+SE ID,TBD,D,II,1,,assessments
+SE ID,LOCAL,TT,I,1,,assessments
+SE ID,LOCAL,TT,F,1,,assessments
+SE ID,LOCAL,TT,H,1,,assessments
+SE ID,LOCAL,TT,S,1,,assessments
+SE ID,LOCAL,TT,II,1,,assessments
+SE Label,TBD,R,I,1,,assessments
+SE Label,TBD,R,F,1,,assessments
+SE Label,TBD,R,H,1,,assessments
+SE Label,TBD,R,S,1,,assessments
+SE Label,TBD,R,II,1,,assessments
+SE Label,TBD,A,I,1,,assessments
+SE Label,TBD,A,F,1,,assessments
+SE Label,TBD,A,H,1,,assessments
+SE Label,TBD,A,S,1,,assessments
+SE Label,TBD,A,II,1,,assessments
+SE Label,TBD,D,I,1,,assessments
+SE Label,TBD,D,F,1,,assessments
+SE Label,TBD,D,H,1,,assessments
+SE Label,TBD,D,S,1,,assessments
+SE Label,TBD,D,II,1,,assessments
+SE Label,LOCAL,TT,I,1,,assessments
+SE Label,LOCAL,TT,F,1,,assessments
+SE Label,LOCAL,TT,H,1,,assessments
+SE Label,LOCAL,TT,S,1,,assessments
+SE Label,LOCAL,TT,II,1,,assessments
+Target assessment,TBD,R,I,1,,assessments
+Target assessment,TBD,R,F,1,,assessments
+Target assessment,TBD,R,H,1,,assessments
+Target assessment,TBD,R,S,1,,assessments
+Target assessment,TBD,R,II,1,,assessments
+Target assessment,TBD,A,I,1,,assessments
+Target assessment,TBD,A,F,1,,assessments
+Target assessment,TBD,A,H,1,,assessments
+Target assessment,TBD,A,S,1,,assessments
+Target assessment,TBD,A,II,1,,assessments
+Target assessment,TBD,D,I,1,,assessments
+Target assessment,TBD,D,F,1,,assessments
+Target assessment,TBD,D,H,1,,assessments
+Target assessment,TBD,D,S,1,,assessments
+Target assessment,TBD,D,II,1,,assessments
+Target assessment,LOCAL,TT,I,1,,assessments
+Target assessment,LOCAL,TT,F,1,,assessments
+Target assessment,LOCAL,TT,H,1,,assessments
+Target assessment,LOCAL,TT,S,1,,assessments
+Target assessment,LOCAL,TT,II,1,,assessments
+Stage Majority target,TBD,R,I,1,,assessments
+Stage Majority target,TBD,R,F,1,,assessments
+Stage Majority target,TBD,R,H,1,,assessments
+Stage Majority target,TBD,R,S,1,,assessments
+Stage Majority target,TBD,R,II,1,,assessments
+Stage Majority target,TBD,A,I,1,,assessments
+Stage Majority target,TBD,A,F,1,,assessments
+Stage Majority target,TBD,A,H,1,,assessments
+Stage Majority target,TBD,A,S,1,,assessments
+Stage Majority target,TBD,A,II,1,,assessments
+Stage Majority target,TBD,D,I,1,,assessments
+Stage Majority target,TBD,D,F,1,,assessments
+Stage Majority target,TBD,D,H,1,,assessments
+Stage Majority target,TBD,D,S,1,,assessments
+Stage Majority target,TBD,D,II,1,,assessments
+Stage Majority target,LOCAL,TT,I,1,,assessments
+Stage Majority target,LOCAL,TT,F,1,,assessments
+Stage Majority target,LOCAL,TT,H,1,,assessments
+Stage Majority target,LOCAL,TT,S,1,,assessments
+Stage Majority target,LOCAL,TT,II,1,,assessments
+Stage Majority crop,TBD,R,I,1,,assessments
+Stage Majority crop,TBD,R,F,1,,assessments
+Stage Majority crop,TBD,R,H,1,,assessments
+Stage Majority crop,TBD,R,S,1,,assessments
+Stage Majority crop,TBD,R,II,1,,assessments
+Stage Majority crop,TBD,A,I,1,,assessments
+Stage Majority crop,TBD,A,F,1,,assessments
+Stage Majority crop,TBD,A,H,1,,assessments
+Stage Majority crop,TBD,A,S,1,,assessments
+Stage Majority crop,TBD,A,II,1,,assessments
+Stage Majority crop,TBD,D,I,1,,assessments
+Stage Majority crop,TBD,D,F,1,,assessments
+Stage Majority crop,TBD,D,H,1,,assessments
+Stage Majority crop,TBD,D,S,1,,assessments
+Stage Majority crop,TBD,D,II,1,,assessments
+Stage Majority crop,LOCAL,TT,I,1,,assessments
+Stage Majority crop,LOCAL,TT,F,1,,assessments
+Stage Majority crop,LOCAL,TT,H,1,,assessments
+Stage Majority crop,LOCAL,TT,S,1,,assessments
+Stage Majority crop,LOCAL,TT,II,1,,assessments
+Part Rated,TBD,R,I,1,,assessments
+Part Rated,TBD,R,F,1,,assessments
+Part Rated,TBD,R,H,1,,assessments
+Part Rated,TBD,R,S,1,,assessments
+Part Rated,TBD,R,II,1,,assessments
+Part Rated,TBD,A,I,1,,assessments
+Part Rated,TBD,A,F,1,,assessments
+Part Rated,TBD,A,H,1,,assessments
+Part Rated,TBD,A,S,1,,assessments
+Part Rated,TBD,A,II,1,,assessments
+Part Rated,TBD,D,I,1,,assessments
+Part Rated,TBD,D,F,1,,assessments
+Part Rated,TBD,D,H,1,,assessments
+Part Rated,TBD,D,S,1,,assessments
+Part Rated,TBD,D,II,1,,assessments
+Part Rated,LOCAL,TT,I,1,,assessments
+Part Rated,LOCAL,TT,F,1,,assessments
+Part Rated,LOCAL,TT,H,1,,assessments
+Part Rated,LOCAL,TT,S,1,,assessments
+Part Rated,LOCAL,TT,II,1,,assessments
+Assessment Type,TBD,R,I,1,,assessments
+Assessment Type,TBD,R,F,1,,assessments
+Assessment Type,TBD,R,H,1,,assessments
+Assessment Type,TBD,R,S,1,,assessments
+Assessment Type,TBD,R,II,1,,assessments
+Assessment Type,TBD,A,I,1,,assessments
+Assessment Type,TBD,A,F,1,,assessments
+Assessment Type,TBD,A,H,1,,assessments
+Assessment Type,TBD,A,S,1,,assessments
+Assessment Type,TBD,A,II,1,,assessments
+Assessment Type,TBD,D,I,1,,assessments
+Assessment Type,TBD,D,F,1,,assessments
+Assessment Type,TBD,D,H,1,,assessments
+Assessment Type,TBD,D,S,1,,assessments
+Assessment Type,TBD,D,II,1,,assessments
+Assessment Type,LOCAL,TT,I,1,,assessments
+Assessment Type,LOCAL,TT,F,1,,assessments
+Assessment Type,LOCAL,TT,H,1,,assessments
+Assessment Type,LOCAL,TT,S,1,,assessments
+Assessment Type,LOCAL,TT,II,1,,assessments
+Assessment Unit,TBD,R,I,1,,assessments
+Assessment Unit,TBD,R,F,1,,assessments
+Assessment Unit,TBD,R,H,1,,assessments
+Assessment Unit,TBD,R,S,1,,assessments
+Assessment Unit,TBD,R,II,1,,assessments
+Assessment Unit,TBD,A,I,1,,assessments
+Assessment Unit,TBD,A,F,1,,assessments
+Assessment Unit,TBD,A,H,1,,assessments
+Assessment Unit,TBD,A,S,1,,assessments
+Assessment Unit,TBD,A,II,1,,assessments
+Assessment Unit,TBD,D,I,1,,assessments
+Assessment Unit,TBD,D,F,1,,assessments
+Assessment Unit,TBD,D,H,1,,assessments
+Assessment Unit,TBD,D,S,1,,assessments
+Assessment Unit,TBD,D,II,1,,assessments
+Assessment Unit,LOCAL,TT,I,1,,assessments
+Assessment Unit,LOCAL,TT,F,1,,assessments
+Assessment Unit,LOCAL,TT,H,1,,assessments
+Assessment Unit,LOCAL,TT,S,1,,assessments
+Assessment Unit,LOCAL,TT,II,1,,assessments
+Sample Size,TBD,R,I,1,,assessments
+Sample Size,TBD,R,F,1,,assessments
+Sample Size,TBD,R,H,1,,assessments
+Sample Size,TBD,R,S,1,,assessments
+Sample Size,TBD,R,II,1,,assessments
+Sample Size,TBD,A,I,1,,assessments
+Sample Size,TBD,A,F,1,,assessments
+Sample Size,TBD,A,H,1,,assessments
+Sample Size,TBD,A,S,1,,assessments
+Sample Size,TBD,A,II,1,,assessments
+Sample Size,TBD,D,I,1,,assessments
+Sample Size,TBD,D,F,1,,assessments
+Sample Size,TBD,D,H,1,,assessments
+Sample Size,TBD,D,S,1,,assessments
+Sample Size,TBD,D,II,1,,assessments
+Sample Size,LOCAL,TT,I,1,,assessments
+Sample Size,LOCAL,TT,F,1,,assessments
+Sample Size,LOCAL,TT,H,1,,assessments
+Sample Size,LOCAL,TT,S,1,,assessments
+Sample Size,LOCAL,TT,II,1,,assessments
+Sample Size Unit,TBD,R,I,1,,assessments
+Sample Size Unit,TBD,R,F,1,,assessments
+Sample Size Unit,TBD,R,H,1,,assessments
+Sample Size Unit,TBD,R,S,1,,assessments
+Sample Size Unit,TBD,R,II,1,,assessments
+Sample Size Unit,TBD,A,I,1,,assessments
+Sample Size Unit,TBD,A,F,1,,assessments
+Sample Size Unit,TBD,A,H,1,,assessments
+Sample Size Unit,TBD,A,S,1,,assessments
+Sample Size Unit,TBD,A,II,1,,assessments
+Sample Size Unit,TBD,D,I,1,,assessments
+Sample Size Unit,TBD,D,F,1,,assessments
+Sample Size Unit,TBD,D,H,1,,assessments
+Sample Size Unit,TBD,D,S,1,,assessments
+Sample Size Unit,TBD,D,II,1,,assessments
+Sample Size Unit,LOCAL,TT,I,1,,assessments
+Sample Size Unit,LOCAL,TT,F,1,,assessments
+Sample Size Unit,LOCAL,TT,H,1,,assessments
+Sample Size Unit,LOCAL,TT,S,1,,assessments
+Sample Size Unit,LOCAL,TT,II,1,,assessments
+Assessment Date,TBD,R,I,1,,assessments
+Assessment Date,TBD,R,F,1,,assessments
+Assessment Date,TBD,R,H,1,,assessments
+Assessment Date,TBD,R,S,1,,assessments
+Assessment Date,TBD,R,II,1,,assessments
+Assessment Date,TBD,A,I,1,,assessments
+Assessment Date,TBD,A,F,1,,assessments
+Assessment Date,TBD,A,H,1,,assessments
+Assessment Date,TBD,A,S,1,,assessments
+Assessment Date,TBD,A,II,1,,assessments
+Assessment Date,TBD,D,I,1,,assessments
+Assessment Date,TBD,D,F,1,,assessments
+Assessment Date,TBD,D,H,1,,assessments
+Assessment Date,TBD,D,S,1,,assessments
+Assessment Date,TBD,D,II,1,,assessments
+Assessment Date,LOCAL,TT,I,1,,assessments
+Assessment Date,LOCAL,TT,F,1,,assessments
+Assessment Date,LOCAL,TT,H,1,,assessments
+Assessment Date,LOCAL,TT,S,1,,assessments
+Assessment Date,LOCAL,TT,II,1,,assessments
+Assessment Code,TBD,R,I,1,,assessments
+Assessment Code,TBD,R,F,1,,assessments
+Assessment Code,TBD,R,H,1,,assessments
+Assessment Code,TBD,R,S,1,,assessments
+Assessment Code,TBD,R,II,1,,assessments
+Assessment Code,TBD,A,I,1,,assessments
+Assessment Code,TBD,A,F,1,,assessments
+Assessment Code,TBD,A,H,1,,assessments
+Assessment Code,TBD,A,S,1,,assessments
+Assessment Code,TBD,A,II,1,,assessments
+Assessment Code,TBD,D,I,1,,assessments
+Assessment Code,TBD,D,F,1,,assessments
+Assessment Code,TBD,D,H,1,,assessments
+Assessment Code,TBD,D,S,1,,assessments
+Assessment Code,TBD,D,II,1,,assessments
+Assessment Code,LOCAL,TT,I,1,,assessments
+Assessment Code,LOCAL,TT,F,1,,assessments
+Assessment Code,LOCAL,TT,H,1,,assessments
+Assessment Code,LOCAL,TT,S,1,,assessments
+Assessment Code,LOCAL,TT,II,1,,assessments
